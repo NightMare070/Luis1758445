@@ -1,0 +1,19 @@
+p{
+    color: blue;
+}
+div{
+    color: mediumpurple;
+}
+h1{
+    font-size: 3em;
+}
+#uno{
+    color: chocolate;
+}
+#dos{
+    background-color: bisque;
+}
+#tres{
+    color: greenyellow;
+    background-color: black;
+}
