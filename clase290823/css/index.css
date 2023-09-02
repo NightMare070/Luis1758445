@@ -1,3 +1,6 @@
+*{
+    text-align: center;
+}
 h1{
     border: 1px solid red;
     padding-left: 22px;
@@ -19,14 +22,15 @@ p{
     text-align: center;
 }
 #ah{
-    height: 200px;
+    height: 300px;
     width: 400px;
 }
-#ajustado{
+#ajustada{
     width: 300px;
 }
 #rara{
     width: 50px;
+    height: 300px;
 }
 #real{
     width: 450px;
