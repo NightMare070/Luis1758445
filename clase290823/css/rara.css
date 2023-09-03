@@ -1,16 +1,16 @@
 *{
     text-align: center;
-    background-color: #fdf0d5;
+    background-color: #edf6f9;
 }
 h1{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #669bbc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e29578;
     font-size: 50px;
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 5px;
-    background-color: #003049;
+    background-color: #ffddd2;
     margin-left: 150px;
     margin-right: 150px;
     padding: 10px;
@@ -21,8 +21,8 @@ img{
     width: 1000px;
 }
 .primero{
-    color: #cae9ff;
+    color: #006d77;
 }
 .segundo{
-    color: #c1121f;
+    color: #83c5be;
 }
