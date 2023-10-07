@@ -1,0 +1,79 @@
+body{
+    background-color: gainsboro;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    border-radius: 10px;
+    background-color: #000;
+    border-bottom: 1px solid #fff;
+}
+
+.header h2 {
+    margin: 0;
+    margin-inline: 20px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+
+.header a{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    margin-inline: 0px;
+}
+
+.header img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-emphasis: bold;
+}
+
+.tarjeta {
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: slategrey;
+    border-radius: 10px;
+    width: 35%;
+}
+
+h2, h3{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+h3{
+    color: darkblue;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0; 
+    width: 100%;
+    height: 20px;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    padding: 20px 0;
+    border-radius: 10px;
+}
+
+#texto {
+    margin: 0;
+    text-align: center;
+}
